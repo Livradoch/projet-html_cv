@@ -1,0 +1,56 @@
+
+body {
+	float: center;
+	font-size: 14px;
+	margin-left: 25em;
+	margin-right: 25em;
+	
+}
+
+h3 {
+padding-top: 3%;
+
+}
+
+* {
+	font-family: arial bold;
+}
+
+.photoprofil 
+	{ 
+		align-items: center;
+}
+
+
+.social
+	{
+		padding: 1em 1em 1em 1em;
+		margin: 0 25 0 25;
+	width: 25%; 
+	align-content: center;
+	}
+
+address {
+padding-top: 5px;
+
+
+}
+
+footer {
+float: left;
+	width: 100%;
+	position: center;
+
+}
+nav ul
+{
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+nav > ul > li {
+	height: 50%;
+	width : 20%;
+	display: inline-block;
+}
+
